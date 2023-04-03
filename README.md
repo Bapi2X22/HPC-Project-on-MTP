@@ -1,1 +1,1 @@
-MHD-project
+Molecular  Dynamics-HPC project
