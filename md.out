@@ -1,0 +1,14 @@
+                               No. of Molecules =      200
+                  No. of Atoms in Each Molecule =        1
+                                      Time Step =          1.0000
+                                No. of MD Steps =      600
+                            Desired Temperature =         85.0000
+                            Cubix Box Dimension =         21.1606
+                   Lennard-Jones Parameters eps =          0.2381    Sigms          3.4050
+      Cutoff for Lennard-Jones potential (RCut) =         10.0000
+                                Mass of LJ Atom =         39.9480
+
+
+
+
+Temperature is set to       85.000
